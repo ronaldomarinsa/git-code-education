@@ -1,7 +1,12 @@
 ronaldo marins
 denilson marins
 janete marins
+<<<<<<< HEAD
 carolina marins
 matheus oliveira
 
 
+=======
+calorina marins
+matheus oliveira
+>>>>>>> funcionalidade1
