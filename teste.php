@@ -1,4 +1,5 @@
 <?php phpinfo(); ?>
-<?="Teste";?>
+Ola!
+
 
 //fim de linha
